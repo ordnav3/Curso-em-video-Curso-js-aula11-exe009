@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    color: rgb(255, 238, 0);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.principal{
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(255, 238, 0);
+    color: blue;
+}
+
+.principal form{
+    background-color: rgb(255, 238, 0);
+
+}
+
+#label{
+    background-color: rgb(255, 238, 0);
+    
+}
+
+#nasc{
+    //background-color: blue;
+    border-radius: 10px;
+    color: aliceblue;
+    width: 100pxpx;
+    height: 25px;
+    
+}
+
+#bo{
+    background-color: blue;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 15px;
+    width: 75px;
+    height: 25px;
+
+}
+
+#res{
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+#res p{
+    
+    padding-bottom: 20px;
+}
